@@ -46,3 +46,7 @@ Pronto
 Não consegui subir um Dockerfile com as imagens pois o windows não estava conseguindo encontrar o diretório do mesmo no momento do build. Então acabei colocando as imagens dentro do Docker-compose.
 
 Consegui conectar os dois containers, porém não com os arquivos sql e php passados.
+
+Antes de fazer o projeto, assisti algumas vídeo aulas no youtube sobre Docker, visto que eu não era muito familiar com  o mesmo.
+
+E utilizei de vários artigos na internet sobre PHP/MYSQL com Docker, para realizar o desafio.
